@@ -16,7 +16,7 @@ Lastly, we have been aware of button debouncing. To solve this issue, there are 
 - Pi Quality
 - Floating Display
 - Negative Display
-- Invalid,Overflow,Idle Flags
+- Invalid,Overflow Flags
 - Ans Quality
 
 # DOCS
