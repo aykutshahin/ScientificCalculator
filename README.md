@@ -1,4 +1,4 @@
-# ScientificCalculator
+# Scientific Calculator
 
 # INTRO
 In this project, we have aimed to create a fully operational scientific calculator in C by using STM32 G031K8 MCU.
