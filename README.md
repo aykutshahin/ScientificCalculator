@@ -6,7 +6,7 @@ A 4x4 keypad has been connected to microcontroller GPIO ports to enter the numbe
 In addition, a 4-digit seven segment displayer used to display these numbers.
 To achieve these, we have drawn a rough flowchart to make our developing path clearer so that we could choose our methods to approach some estimated problems.
 For example, we decided to use external interrupts rather than using polling methods in main loop.
-Also we have decided to do displaying utilities in main loop because displaying is continuous process in this project so creating another interrupt for this utility did not any make sense.
+Also we have decided to do displaying utilities in main loop because displaying is continuous process in this project so creating another interrupt for this utility did not make any sense.
 Lastly, we have been aware of button debouncing. To solve this issue, there are three common ways but software prevention method has been used instead of hardware prevention method that is RC debouncing filter.
 
 # FEATURES
